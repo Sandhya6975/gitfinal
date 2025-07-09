@@ -1,8 +1,8 @@
 
-var a=15;
+var a=5;
 
 let person = {
-    name: "Sandhya",
-    age: 25
+    name: "gopisetty",
+    age: 23
   };
-  person.name;
+  person.age;
